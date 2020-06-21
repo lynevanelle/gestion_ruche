@@ -1,0 +1,17 @@
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.cercle{
+  text-align:center;
+  color:white;
+  background:#707070 ;
+  border-radius:50%;
+  border:2px solid #404040 ;
+  max-width:130px;
+  max-height: 130px;
+}
